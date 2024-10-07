@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
- 
+ #wright by mahin
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from contextlib import suppress
 from itertools import cycle
